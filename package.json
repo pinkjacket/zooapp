@@ -45,5 +45,10 @@
     "webpack": "2.2.1",
     "webpack-dev-server": "2.4.1",
     "webpack-merge": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pinkjacket/zooapp"
+  },
+  "author": "James Donlan"
 }
